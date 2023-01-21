@@ -1,2 +1,2 @@
-# Introducci-n-a-la-programaci-n---secci-n-9
+# Introduccion-a-la-programacion-seccion-9
 Javier Contreras - 1255916
